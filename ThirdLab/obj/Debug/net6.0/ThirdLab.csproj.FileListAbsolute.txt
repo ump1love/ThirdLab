@@ -1,0 +1,14 @@
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.AssemblyInfoInputs.cache
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.AssemblyInfo.cs
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.csproj.CoreCompileInputs.cache
+D:\codes\codes for uni\ThirdLab\ThirdLab\bin\Debug\net6.0\ThirdLab.exe
+D:\codes\codes for uni\ThirdLab\ThirdLab\bin\Debug\net6.0\ThirdLab.deps.json
+D:\codes\codes for uni\ThirdLab\ThirdLab\bin\Debug\net6.0\ThirdLab.runtimeconfig.json
+D:\codes\codes for uni\ThirdLab\ThirdLab\bin\Debug\net6.0\ThirdLab.dll
+D:\codes\codes for uni\ThirdLab\ThirdLab\bin\Debug\net6.0\ThirdLab.pdb
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.dll
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\refint\ThirdLab.dll
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.pdb
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ThirdLab.genruntimeconfig.cache
+D:\codes\codes for uni\ThirdLab\ThirdLab\obj\Debug\net6.0\ref\ThirdLab.dll

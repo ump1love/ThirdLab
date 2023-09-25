@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\codes for uni\\ThirdLab\\ThirdLab\\ThirdLab.csproj",
-      "projectName": "ThirdLab",
-      "projectPath": "D:\\codes\\codes for uni\\ThirdLab\\ThirdLab\\ThirdLab.csproj",
+      "projectUniqueName": "D:\\codes\\codes for uni\\ThirdLab\\ThirdLab\\Rectangle.csproj",
+      "projectName": "Rectangle",
+      "projectPath": "D:\\codes\\codes for uni\\ThirdLab\\ThirdLab\\Rectangle.csproj",
       "packagesPath": "C:\\Users\\ump1love\\.nuget\\packages\\",
       "outputPath": "D:\\codes\\codes for uni\\ThirdLab\\ThirdLab\\obj\\",
       "projectStyle": "PackageReference",

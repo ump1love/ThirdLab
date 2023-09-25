@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdLab", "ThirdLab\ThirdLab.csproj", "{79D89661-2F18-4ABC-BBC0-A1FFF2DA2EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "ThirdLab\Rectangle.csproj", "{79D89661-2F18-4ABC-BBC0-A1FFF2DA2EF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointAndFigure", "PointAndFigure\PointAndFigure.csproj", "{D55570A9-1C04-4D1D-A0EB-07686F9C9592}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{79D89661-2F18-4ABC-BBC0-A1FFF2DA2EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D89661-2F18-4ABC-BBC0-A1FFF2DA2EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D89661-2F18-4ABC-BBC0-A1FFF2DA2EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55570A9-1C04-4D1D-A0EB-07686F9C9592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55570A9-1C04-4D1D-A0EB-07686F9C9592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55570A9-1C04-4D1D-A0EB-07686F9C9592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55570A9-1C04-4D1D-A0EB-07686F9C9592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
